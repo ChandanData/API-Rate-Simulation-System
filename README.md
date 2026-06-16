@@ -1,6 +1,6 @@
 # API Rate Simulation System
 
-I had developed this project in the as part of the **AICTE – EduSkills Virtual Internship Program** in the domain of Python Full Stack Development With Project.
+This project was developed as part of the AICTE – EduSkills Virtual Internship Program under the Python Full Stack Development domain.
 
 The goal of this project is to understand how API rate limiting works in real-world applications. Modern web services receive thousands of requests every second, and rate limiting helps control traffic, prevent misuse, and ensure fair usage of resources.
 
@@ -21,15 +21,26 @@ The system takes API request logs as input and performs the following tasks:
 
 ---
 
+## Project Highlights
+
+- Implemented Fixed Window Rate Limiting Algorithm
+- Implemented Sliding Window Log Rate Limiting Algorithm
+- Parsed and processed API request logs
+- Generated request analytics and user statistics
+- Simulated real-world API traffic management
+- Built using Python and core Data Structures
+
+---
+
 ## Technologies Used
 
-* Python
-* JSON
-* Dictionaries
-* Lists
-* Data Structures & Algorithms
-* VS Code
-* Git & GitHub
+- Python 3
+- JSON
+- Dictionaries & Lists
+- Data Structures & Algorithms
+- VS Code
+- Git
+- GitHub
 
 ---
 
@@ -223,13 +234,23 @@ Some features that can be added in the future:
 
 **Chandan Kumar Jha**
 
-B.Tech – Computer Science & Engineering.
+B.Tech – Computer Science & Technology.
 
 AICTE – EduSkills Virtual Internship Project
 
-GitHub: **https://github.com/ChandanData**
+### Connect With Me
 
-LinkedIn: **https://www.linkedin.com/in/chandan-kumar-jha-099977286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+GitHub:
+https://github.com/ChandanData
+
+LinkedIn:
+https://www.linkedin.com/in/chandan-kumar-jha-099977286
+
+---
+
+## License
+
+This project is developed for educational and learning purposes as part of the AICTE – EduSkills Virtual Internship Program.
 
 ---
 
